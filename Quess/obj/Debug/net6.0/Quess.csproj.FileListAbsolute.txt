@@ -1,0 +1,15 @@
+C:\Users\tomas\source\repos\Quess\Quess\bin\Debug\net6.0\Quess.exe
+C:\Users\tomas\source\repos\Quess\Quess\bin\Debug\net6.0\Quess.deps.json
+C:\Users\tomas\source\repos\Quess\Quess\bin\Debug\net6.0\Quess.runtimeconfig.json
+C:\Users\tomas\source\repos\Quess\Quess\bin\Debug\net6.0\Quess.dll
+C:\Users\tomas\source\repos\Quess\Quess\bin\Debug\net6.0\Quess.pdb
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.AssemblyInfoInputs.cache
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.AssemblyInfo.cs
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.dll
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\refint\Quess.dll
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.pdb
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\Quess.genruntimeconfig.cache
+C:\Users\tomas\source\repos\Quess\Quess\obj\Debug\net6.0\ref\Quess.dll
